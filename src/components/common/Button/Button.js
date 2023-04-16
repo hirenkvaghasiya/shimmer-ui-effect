@@ -5,9 +5,9 @@ const ShimmerUIButton = ({ borderRadius, height, width }) => {
         <div
             className="shimmer__ui shimmer__ui__button"
             style={{
-                borderRadius: borderRadius,
-                width: width,
-                height: height,
+                borderRadius: borderRadius + "px",
+                width: width + "px",
+                height: height + "px",
             }}
         />
     )

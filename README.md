@@ -16,7 +16,7 @@ yarn add shimmer-ui-effect
 
 ## Elements
 
-### Shimmer UI Button 1️⃣
+### 1️⃣ Shimmer UI Button
 
 <kbd>
 <img src="./extra-files/ShimmerUIButton.png" />
@@ -45,7 +45,7 @@ const App = () => {
 
 ---
 
-### Shimmer UI Title 2️⃣
+### 2️⃣ Shimmer UI Title
 
 <kbd>
 <img src="./extra-files/ShimmerUITitle.png" />
@@ -75,7 +75,7 @@ const App = () => {
 
 ---
 
-### Shimmer UI Text 3️⃣
+### 3️⃣ Shimmer UI Text
 
 <kbd>
 <img src="./extra-files/ShimmerUIText.png" />
@@ -104,7 +104,7 @@ const App = () => {
 
 ---
 
-### Shimmer UI Badge 4️⃣
+### 4️⃣ Shimmer UI Badge
 
 <kbd>
 <img src="./extra-files/ShimmerUIBadge.png" />
@@ -132,7 +132,7 @@ const App = () => {
 
 ---
 
-### Shimmer UI Circular Image 5️⃣
+### 5️⃣ Shimmer UI Circular Image
 
 <kbd>
 <img src="./extra-files/ShimmerUICircularImage.png" />
@@ -161,7 +161,7 @@ const App = () => {
 
 ---
 
-### Shimmer UI Thumbnail Image 6️⃣
+### 6️⃣ Shimmer UI Thumbnail Image
 
 <kbd>
 <img src="./extra-files/ShimmerUIThumbnail.png" />

@@ -11,8 +11,8 @@ const ShimmerUICircularImage = ({ size, center, className }) => {
         >
             <div
                 style={{
-                    width: size,
-                    height: size,
+                    width: size + "px",
+                    height: size + "px",
                 }}
                 className={classNames({
                     "shimmer__ui shimmer__ui__circle": true,
