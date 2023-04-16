@@ -76,3 +76,32 @@ const App = () => {
 | `className` | string | no       |               | Additonal style classes                                       |
 
 ---
+
+### Shimmer UI Text
+
+<kbd>
+<img src="./extra-files/ShimmerUIText.png" />
+</kbd>
+&nbsp;
+&nbsp;
+
+```jsx
+import React from "react";
+import { ShimmerUIText } from "shimmer-ui-effect";
+
+const App = () => {
+  render() {
+    return <ShimmerUIText line={5} gap={15} />;
+  }
+}
+```
+
+#### Properties
+
+| Property    | Type   | Required | Default value | Description                                                   |
+| :---------- | :----- | :------- | :------------ | :------------------------------------------------------------ |
+| `line`      | number | yes      | 5             | Number of line                                                |
+| `gap`       | number | yes      | 15            | Gap between of lines. Four options available [10, 15, 20, 30] |
+| `className` | string | no       |               | Additonal style classes                                       |
+
+---
