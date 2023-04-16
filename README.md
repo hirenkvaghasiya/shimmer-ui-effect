@@ -31,7 +31,7 @@ class Example extends Component {
 }
 ```
 <kbd>
-![buttons](./extra-files/ShimmerUIButton-1.png)
+<img src="./extra-files/ShimmerUIButton-1.png" />
 </kbd>
 #### Properties
 
