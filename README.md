@@ -2,8 +2,6 @@
 
 Customizable Shimmer UI Compoenents Effects for React.
 
-### [**Live Demo**](https://hirenkvaghasiya.github.io/shimmer-ui-effect/)
-
 ## Install
 
 ```bash
@@ -18,7 +16,7 @@ yarn add shimmer-ui-effect
 
 ## Elements
 
-### Shimmer UI Button
+### Shimmer UI Button 1️⃣
 
 <kbd>
 <img src="./extra-files/ShimmerUIButton.png" />
@@ -47,7 +45,7 @@ const App = () => {
 
 ---
 
-### Shimmer UI Title
+### Shimmer UI Title 2️⃣
 
 <kbd>
 <img src="./extra-files/ShimmerUITitle.png" />
@@ -77,7 +75,7 @@ const App = () => {
 
 ---
 
-### Shimmer UI Text
+### Shimmer UI Text 3️⃣
 
 <kbd>
 <img src="./extra-files/ShimmerUIText.png" />
@@ -106,7 +104,7 @@ const App = () => {
 
 ---
 
-### Shimmer UI Badge
+### Shimmer UI Badge 4️⃣
 
 <kbd>
 <img src="./extra-files/ShimmerUIBadge.png" />
@@ -134,7 +132,7 @@ const App = () => {
 
 ---
 
-### Shimmer UI Circular Image
+### Shimmer UI Circular Image 5️⃣
 
 <kbd>
 <img src="./extra-files/ShimmerUICircularImage.png" />
@@ -163,7 +161,7 @@ const App = () => {
 
 ---
 
-### Shimmer UI Thumbnail Image
+### Shimmer UI Thumbnail Image 6️⃣
 
 <kbd>
 <img src="./extra-files/ShimmerUIThumbnail.png" />
@@ -194,3 +192,18 @@ const App = () => {
 | `className`       | string | no      |             | Additonal style classes |
 
 ---
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+## Contribute
+
+Feel free to send PR and any suggestions. Thanks & Best Regards 😊
+
+## License
+
+MIT &copy; [Hiren K Vaghasiya](https://github.com/hirenkvaghasiya)
