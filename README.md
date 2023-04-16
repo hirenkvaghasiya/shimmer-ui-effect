@@ -31,7 +31,7 @@ const App = () => {
 }
 ```
 <kbd>
-<img src="./extra-files/ShimmerUIButton-1.png" />
+<img src="./extra-files/ShimmerUIButton.png" />
 </kbd>
 
 #### Properties

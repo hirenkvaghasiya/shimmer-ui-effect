@@ -16,8 +16,8 @@
 }
 
 .shimmer__ui {
-    /* background: linear-gradient(-60deg, #f6f6f6 30%, #dddddd, #f6f6f6 70%) right/300% 100%; */
-    background-color: #eee;
+    background: linear-gradient(-60deg, #f6f6f6 30%, #dddddd, #f6f6f6 70%) right/300% 100%;
+    /* background-color: #eee; */
     background-size: 1000px 100%;
     animation: shimmer 2.3s linear infinite forwards;
 }
