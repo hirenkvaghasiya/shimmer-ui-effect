@@ -105,3 +105,31 @@ const App = () => {
 | `className` | string | no       |               | Additonal style classes                                       |
 
 ---
+
+### Shimmer UI Badge
+
+<kbd>
+<img src="./extra-files/ShimmerUIBadge.png" />
+</kbd>
+&nbsp;
+&nbsp;
+
+```jsx
+import React from "react";
+import { ShimmerUIBadge } from "shimmer-ui-effect";
+
+const App = () => {
+  render() {
+    return <ShimmerUIBadge width={200} height={30} />;
+  }
+}
+```
+
+#### Properties
+
+| Property    | Type   | Required | Default value | Description                                                   |
+| :---------- | :----- | :------- | :------------ | :------------------------------------------------------------ |
+| `width`      | number | no      | 100             | Width of the badge in px unit                                                |
+| `height`       | number | no      | 24            | Height of the badge in px unit |
+
+---

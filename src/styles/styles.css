@@ -11,7 +11,7 @@
     gap: 30px;
     align-items: center;
     vertical-align: middle; */
-    padding: 40px;
+    padding: 40px 40px 20px 40px;
     display: grid;
     grid-template-columns: 1fr;
     /* gap: 30px; */
@@ -110,4 +110,12 @@
 
 .shimmer__ui__text__line:last-child {
     width: 40%;
+}
+
+/* Badge */
+.shimmer__ui__badge {
+    width: 100px;
+    height: 24px;
+    border-radius: 20px;
+    margin-bottom: 20px;
 }
