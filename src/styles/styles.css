@@ -1,0 +1,49 @@
+@import "./common.css";
+
+.shimmer__ui {
+    background: linear-gradient(-60deg, #f6f6f6 30%, #dddddd, #f6f6f6 70%) right/300% 100%;
+    background-size: 1000px 100%;
+    animation: shimmer 2.3s linear infinite forwards;
+}
+
+@-webkit-keyframes shimmer {
+    0% {
+        background-position: -100% 0;
+    }
+
+    100% {
+        background-position: 100% 0;
+    }
+}
+
+@keyframes shimmer {
+    0% {
+        background-position: -1000px 0;
+    }
+
+    100% {
+        background-position: 1000px 0;
+    }
+}
+
+.shimmer__ui__hr {
+    border-color: #f6f6f6;
+}
+
+.shimmer__ui__row {
+    display: flex;
+    margin: 0 -15px;
+}
+
+.shimmer__ui__row .shimmer__ui__col {
+    padding-left: 15px;
+    padding-right: 15px;
+    flex-basis: 0;
+    flex-grow: 1;
+    max-width: 100%;
+}
+
+/* Button */
+.shimmer__ui__button {
+    margin-bottom: 20px;
+}

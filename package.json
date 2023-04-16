@@ -1,0 +1,64 @@
+{
+    "name": "shimmer-ui-effect",
+    "version": "1.0.0",
+    "description": "Shimmer/Layload UI Components for React JS 🚀",
+    "scripts": {
+        "start": "parcel index.html",
+        "build": "parcel build index.html",
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hirenkvaghasiya/shimmer-ui-effect.git"
+    },
+    "keywords": [
+        "shimmer",
+        "react",
+        "react-ui",
+        "react-shimmer",
+        "shimmer-effects",
+        "next-shimmer",
+        "category-shimmer",
+        "table-shimmer",
+        "shimmer-content",
+        "shimmer-button",
+        "shimmer-thumbnail",
+        "shimmer-circular-image",
+        "social-posts",
+        "post-details",
+        "shimmer-content-text",
+        "shimmer-title",
+        "shimmer-section-header",
+        "shimmer-gallery",
+        "shimmer-sidebar-category",
+        "shimmer-post",
+        "shimmer-post-list"
+    ],
+    "author": {
+        "name": "Hiren K Vaghasiya",
+        "email": "hirenkvaghasiya@hotmail.com",
+        "url": "https://github.com/hirenkvaghasiya/shimmer-ui-effect"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/hirenkvaghasiya/shimmer-ui-effect/issues"
+    },
+    "homepage": "https://github.com/hirenkvaghasiya/shimmer-ui-effect#readme",
+    "peerDependencies": {
+        "react": "^16.0.0 || ^17.0.0 || ^18.0.0",
+        "react-dom": "^16.0.0 || ^17.0.0 || ^18.0.0"
+    },
+    "devDependencies": {
+        "parcel": "^2.8.3",
+        "process": "^0.11.10"
+    },
+    "dependencies": {
+        "classnames": "^2.3.2",
+        "prop-types": "^15.8.1",
+        "react": "^16.0.0 || ^17.0.0 || ^18.0.0",
+        "react-dom": "^16.0.0 || ^17.0.0 || ^18.0.0"
+    },
+    "browserslist": [
+        "last 3 versions"
+    ]
+}

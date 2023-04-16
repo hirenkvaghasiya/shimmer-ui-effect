@@ -1,0 +1,177 @@
+/* ===== Padding Styles ===== */
+
+.p__ui__30 {
+    padding: 30px;
+}
+
+.p__ui__20 {
+    padding: 20px;
+}
+
+.p__ui__15 {
+    padding: 15px;
+}
+
+/* ===== Margin Styles ===== */
+
+.m__ui__0 {
+    margin: 0;
+}
+
+.m__ui__auto {
+    margin: auto;
+}
+
+.ml__ui__auto {
+    margin-left: auto;
+}
+
+.mr__ui__auto {
+    margin-right: auto;
+}
+
+.m__ui__15 {
+    margin: 15px;
+}
+
+.m__ui__30 {
+    margin: 30px;
+}
+
+.mb__ui__0 {
+    margin-bottom: 0px;
+}
+
+.mb__ui__10 {
+    margin-bottom: 10px;
+}
+
+.mb__ui__15 {
+    margin-bottom: 15px;
+}
+
+.mb__ui__20 {
+    margin-bottom: 20px;
+}
+
+.mt-15 {
+    margin-top: 15px;
+}
+
+.mb__ui__30 {
+    margin-bottom: 30px;
+}
+
+.mb__ui__40 {
+    margin-bottom: 40px;
+}
+
+/* ======= Content Size Styles ======= */
+
+.w__ui__10 {
+    width: 10%;
+}
+
+.w__ui__20 {
+    width: 20%;
+}
+
+.w__ui__30 {
+    width: 30%;
+}
+
+.w__ui__40 {
+    width: 40%;
+}
+
+.w__ui__50 {
+    width: 50%;
+}
+
+.w__ui__60 {
+    width: 60%;
+}
+
+.w__ui__70 {
+    width: 70%;
+}
+
+.w__ui__80 {
+    width: 80%;
+}
+
+/* ======== flex__ui Styles ======== */
+.flex__ui {
+    display: flex;
+}
+
+.flex__ui__direction__column {
+    flex-direction: column;
+}
+
+.flex__ui__horizontal__center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.flex__ui__vertical__center {
+    align-items: center;
+}
+
+.flex__ui__content__between {
+    justify-content: space-between;
+}
+
+.flex__ui__reverse {
+    flex-direction: row-reverse;
+}
+
+.flex__ui__1 {
+    flex-grow: 1;
+}
+
+/* ======= Grid Styles ======= */
+.grid__ui {
+    display: grid;
+}
+
+.grid__ui__gap__10 {
+    gap: 10px;
+}
+
+.grid__ui__gap__15 {
+    gap: 15px;
+}
+
+.grid__ui__gap__20 {
+    gap: 20px;
+}
+
+.grid__ui__gap__30 {
+    gap: 30px;
+}
+
+.grid__ui__column__2 {
+    grid-template-columns: auto auto;
+}
+
+.grid__ui__column__3 {
+    grid-template-columns: auto auto auto;
+}
+
+.grid__ui__column__4 {
+    grid-template-columns: auto auto auto auto;
+}
+
+.text__ui__center {
+    text-align: center;
+}
+
+.border__ui__rounded {
+    border-radius: 4px;
+}
+
+.h__ui__100 {
+    height: 100% !important;
+}
