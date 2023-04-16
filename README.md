@@ -2,7 +2,7 @@
 
 Customizable Shimmer UI Compoenents Effects for React.
 
-### MORE CUSTOMIZATION OPTIONS COMING SOON - WORKING ON IT - STAY TUNED!!!
+### 🔥 MORE CUSTOMIZATION OPTIONS COMING SOON - STAY TUNED!!!
 
 ## Install
 
