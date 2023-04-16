@@ -24,10 +24,10 @@ yarn add shimmer-ui-effect
 import React from "react";
 import { ShimmerUIButton } from "shimmer-ui-effect";
 
-class Example extends Component {
-  render() {
+const App = () => {
+  return (
     return <ShimmerUIButton  borderRadius={4} height={40} width={400} />;
-  }
+  )
 }
 ```
 <kbd>
