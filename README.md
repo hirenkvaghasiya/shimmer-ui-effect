@@ -31,7 +31,7 @@ class Example extends Component {
 }
 ```
 
-![buttons](./extra-files/ShimmerUIButton.png)
+![buttons](./extra-files/ShimmerUIButton-1.png)
 
 #### Properties
 
