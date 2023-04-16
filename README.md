@@ -30,9 +30,9 @@ class Example extends Component {
   }
 }
 ```
-
+<kbd>
 ![buttons](./extra-files/ShimmerUIButton-1.png)
-
+</kbd>
 #### Properties
 
 | Property | Type   | Required | Default value | Description                                |
