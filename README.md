@@ -1,4 +1,4 @@
-# Shimmer/Lazyload UI Components for React JS 🚀
+# Shimmer / Lazyload UI Components for React 🚀
 
 Customizable Shimmer UI Compoenents Effects for React.
 
