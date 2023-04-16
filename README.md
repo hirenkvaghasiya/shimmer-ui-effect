@@ -23,8 +23,8 @@ yarn add shimmer-ui-effect
 <kbd>
 <img src="./extra-files/ShimmerUIButton.png" />
 </kbd>
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
+&nbsp;
 
 ```jsx
 import React from "react";
@@ -52,8 +52,8 @@ const App = () => {
 <kbd>
 <img src="./extra-files/ShimmerUITitle.png" />
 </kbd>
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
+&nbsp;
 
 ```jsx
 import React from "react";
