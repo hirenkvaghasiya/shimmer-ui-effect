@@ -1,6 +1,6 @@
 import React from 'react'
 
-const ShimmerButton = ({ borderRadius, height, width }) => {
+const ShimmerUIButton = ({ borderRadius, height, width }) => {
     return (
         <div
             className="shimmer__ui shimmer__ui__button"
@@ -13,10 +13,10 @@ const ShimmerButton = ({ borderRadius, height, width }) => {
     )
 }
 
-ShimmerButton.defaultProps = {
+ShimmerUIButton.defaultProps = {
     borderRadius: 4,
     height: 30,
     width: 120,
 };
 
-export default ShimmerButton
+export default ShimmerUIButton

@@ -26,12 +26,12 @@ import { ShimmerUIButton } from "shimmer-ui-effect";
 
 class Example extends Component {
   render() {
-    return <ShimmerButton  borderRadius={4} height={40} width={400} />;
+    return <ShimmerUIButton  borderRadius={4} height={40} width={400} />;
   }
 }
 ```
 
-![buttons](https://user-images.githubusercontent.com/10860624/127743787-fec60445-4315-4626-a3e8-caa6d5a958f0.png)
+![buttons](./extra-files/ShimmerUIButton.png)
 
 #### Properties
 

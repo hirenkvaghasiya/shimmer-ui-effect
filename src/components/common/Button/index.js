@@ -1,3 +1,3 @@
-import ShimmerButton from "./Button";
+import ShimmerUIButton from "./Button";
 
-export default ShimmerButton;
+export default ShimmerUIButton;

@@ -1,7 +1,23 @@
 @import "./common.css";
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    vertical-align: middle;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+
 .shimmer__ui {
-    background: linear-gradient(-60deg, #f6f6f6 30%, #dddddd, #f6f6f6 70%) right/300% 100%;
+    /* background: linear-gradient(-60deg, #f6f6f6 30%, #dddddd, #f6f6f6 70%) right/300% 100%; */
+    background-color: #eee;
     background-size: 1000px 100%;
     animation: shimmer 2.3s linear infinite forwards;
 }
