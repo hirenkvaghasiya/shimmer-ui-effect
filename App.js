@@ -1,14 +1,13 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import { ShimmerUIButton } from './src';
+import { ShimmerUIButton, ShimmerUITitle } from './src';
 
 const App = () => {
     return (
         <React.Fragment>
             <div className="container">
-                <ShimmerUIButton />
-                <ShimmerUIButton borderRadius={100} width={200} height={40} />
-                <ShimmerUIButton borderRadius={10} width={300} height={50} />
+                <ShimmerUITitle line={3} gap={10} variant="primary" />
+                <ShimmerUITitle line={5} gap={10} variant="secondary" />
             </div>
         </React.Fragment>
     )

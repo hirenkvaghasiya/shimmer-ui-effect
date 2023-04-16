@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Shimmer/Layload UI Components for React JS 🚀",
     "scripts": {
-        "start": "parcel index.html",
+        "start": "rm -rf ./dist && rm -rf .parcel-cache && parcel index.html",
         "build": "parcel build index.html",
         "test": "jest"
     },
