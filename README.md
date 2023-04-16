@@ -1,6 +1,6 @@
-# Shimmer/Layload UI Components for React JS 🚀
+# Shimmer/Lazyload UI Components for React JS 🚀
 
-Customizable shimmer effects for React.
+Customizable Shimmer UI Compoenents Effects for React.
 
 ### [**Live Demo**](https://hirenkvaghasiya.github.io/shimmer-ui-effect/)
 
@@ -23,7 +23,8 @@ yarn add shimmer-ui-effect
 <kbd>
 <img src="./extra-files/ShimmerUIButton.png" />
 </kbd>
-<br />
+
+
 
 ```jsx
 import React from "react";
@@ -51,7 +52,8 @@ const App = () => {
 <kbd>
 <img src="./extra-files/ShimmerUITitle.png" />
 </kbd>
-<br />
+
+
 
 ```jsx
 import React from "react";
