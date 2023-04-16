@@ -33,6 +33,7 @@ class Example extends Component {
 <kbd>
 <img src="./extra-files/ShimmerUIButton-1.png" />
 </kbd>
+
 #### Properties
 
 | Property | Type   | Required | Default value | Description                                |
