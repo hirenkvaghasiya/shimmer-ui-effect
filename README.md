@@ -133,3 +133,64 @@ const App = () => {
 | `height`       | number | no      | 24            | Height of the badge in px unit |
 
 ---
+
+### Shimmer UI Circular Image
+
+<kbd>
+<img src="./extra-files/ShimmerUICircularImage.png" />
+</kbd>
+&nbsp;
+&nbsp;
+
+```jsx
+import React from "react";
+import { ShimmerUICircularImage } from "shimmer-ui-effect";
+
+const App = () => {
+  render() {
+    return <ShimmerUICircularImage size={200} />;
+  }
+}
+```
+
+#### Properties
+
+| Property    | Type   | Required | Default value | Description                                                   |
+| :---------- | :----- | :------- | :------------ | :------------------------------------------------------------ |
+| `size`      | number | no      | 100             | Size of Image                                                |
+| `center`       | boolean | no      | false            | Center alignment property |
+| `className`       | string | no      |             | Additonal style classes |
+
+---
+
+### Shimmer UI Thumbnail Image
+
+<kbd>
+<img src="./extra-files/ShimmerUIThumbnail.png" />
+</kbd>
+&nbsp;
+&nbsp;
+
+```jsx
+import React from "react";
+import { ShimmerUIThumbnail } from "shimmer-ui-effect";
+
+const App = () => {
+  render() {
+    return <ShimmerUIThumbnail height={200} rounded />;
+  }
+}
+```
+
+#### Properties
+
+| Property    | Type   | Required | Default value | Description                                                   |
+| :---------- | :----- | :------- | :------------ | :------------------------------------------------------------ |
+| `width`      | number | no      |              | Width of Thumbnail. By default 100%                            |
+| `height`      | number | yes      | 200             | Height of Thumbnail.                            |
+| `center`       | boolean | no      | false            | Center alignment property |
+| `rounded`       | boolean | no      | false            | Border radius option enable/disable |
+| `fitOnFrame`       | boolean | no      | false            | Adjust height of parent. Will block 100% of parent element(s) |
+| `className`       | string | no      |             | Additonal style classes |
+
+---
